@@ -14,3 +14,4 @@ console.log(16/2);
 
 let favoriteNumber: number = 3;
 console.log(favoriteNumber);
+
